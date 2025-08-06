@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itzdaimy/DmergerSpigot/stargazers"><img src="https://img.shields.io/github/stars/itzdaimy/DmergerSpigot?style=social" alt="Stars"></a>
-  <a href="https://github.com/itzdaimy/DmergerSpigot/network/members"><img src="https://img.shields.io/github/forks/itzdaimy/DmergerSpigot?style=social" alt="Forks"></a>
-  <a href="https://github.com/itzdaimy/DmergerSpigot/issues"><img src="https://img.shields.io/github/issues/itzdaimy/DmergerSpigot" alt="Issues"></a>
-  <a href="https://github.com/itzdaimy/DmergerSpigot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/itzdaimy/DmergerSpigot" alt="License"></a>
+  <a href="https://github.com/itzdaimy/Dmerger/stargazers"><img src="https://img.shields.io/github/stars/itzdaimy/DmergerSpigot?style=social" alt="Stars"></a>
+  <a href="https://github.com/itzdaimy/Dmerger/network/members"><img src="https://img.shields.io/github/forks/itzdaimy/DmergerSpigot?style=social" alt="Forks"></a>
+  <a href="https://github.com/itzdaimy/Dmerger/issues"><img src="https://img.shields.io/github/issues/itzdaimy/DmergerSpigot" alt="Issues"></a>
+  <a href="https://github.com/itzdaimy/Dmerger/blob/main/LICENSE"><img src="https://img.shields.io/github/license/itzdaimy/DmergerSpigot" alt="License"></a>
   <img src="https://komarev.com/ghpvc/?username=itzdaimy&label=Profile+Views&color=0e75b6&style=flat" alt="View Counter">
 </p>
 
