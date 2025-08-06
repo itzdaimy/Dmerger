@@ -1,0 +1,24 @@
+# ---------------------------------------------------------------- #
+#                  Dmerger Configuration File                      #
+# ---------------------------------------------------------------- #
+
+# merge-delay: The time in ticks after an item is dropped before the plugin
+# attempts to merge it. There are 20 ticks in one second.
+# Default: 40 (2 seconds)
+merge-delay: 40
+
+# merge-radius: The radius in blocks around a dropped item that the plugin
+# will search for other similar items to merge with.
+# Default: 2.5
+merge-radius: 2.5
+
+# max-merge-items: The maximum number of separate item stacks that will be
+# merged into the target item in a single operation.
+# Default: 512
+max-merge-items: 512
+
+# debug: Set to 'true' to see detailed messages in your server console
+# whenever items are merged. This is useful for testing.
+# Set to 'false' for normal use to avoid spamming the console.
+# Default: false
+debug: false

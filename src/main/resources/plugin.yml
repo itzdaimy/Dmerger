@@ -1,0 +1,16 @@
+name: Dmerger
+version: 1.0.1
+main: daimy.dmerger.Dmerger
+api-version: '1.21'
+authors: [daimy]
+description: Automatically merges nearby dropped items to reduce lag.
+commands:
+  dmerger:
+    description: Main command for the Dmerger plugin.
+    usage: /<command> [reload|info]
+    aliases: [dm]
+    permission: dmerger.admin
+permissions:
+  dmerger.admin:
+    description: Allows reloading the config and viewing info.
+    default: op
