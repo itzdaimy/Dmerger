@@ -31,7 +31,7 @@
 |--------------|--------------------------------------|
 | Java         | Programming Language                 |
 | Spigot API   | Minecraft Plugin API                 |
-| Maven        | Dependency Management (optional)     |
+| Gradle       | Dependency Management (optional)     |
 | Bukkit       | Base Minecraft Server Implementation |
 
 ---
