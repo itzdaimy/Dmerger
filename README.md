@@ -13,7 +13,6 @@
 </p>
 
 ---
-
 ## 🚀 Features
 
 - 🔁 **Smart Item Merging**: Automatically merges nearby dropped items.
@@ -22,6 +21,12 @@
 - 🧱 **Merge Limits**: Define how many items can merge in a single operation.
 - 🛠️ **Hot Reload**: Reload config without restarting your server.
 - 🧪 **Debug Mode**: Toggle detailed logs for development and testing.
+
+---
+
+## ❓Support/Help
+
+- You can get help at my discord server! https://discord.gg.daimy
 
 ---
 
